@@ -1,4 +1,4 @@
-Este proyecto se realizó exclusivamente para Runa. Consiste en un mini blog en donde funcionalmente solo se muestra una lista de posteos, y se accede a un administrador para agrear/borrar mensajes. Se cruzan los datos con https://jsonplaceholder.typicode.com/ para pintar las listas.
+Este proyecto Es solo de muestra para incorporar distintas funcionalidades de React. Consiste en un mini blog en donde funcionalmente solo se muestra una lista de posteos, y se accede a un administrador para agrear/borrar mensajes. Se cruzan los datos con https://jsonplaceholder.typicode.com/ para pintar las listas.
 
 ## Tecnologías involucradas
 
